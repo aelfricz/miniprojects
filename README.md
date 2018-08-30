@@ -1,5 +1,5 @@
 ## miniprojects
-This is a collection of mini projects done in Python
+This is a collection of non-work related personal projects done in Python
 
 ## Binary tree
 use a non-class method to create a binary tree, print binary tree level-wise

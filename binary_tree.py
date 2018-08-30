@@ -1,9 +1,3 @@
-class Binary_Tree:
-    def __init__(self, data, left=None, right=None):
-        self.data = data
-        self.left = left
-        self.right= right
-
 import collections
 
 node = collections.namedtuple("node", "data left right")
