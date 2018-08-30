@@ -1,6 +1,7 @@
 # use divide and conquer to merge_sort a large group of numbers
-# to return a sorted list and count the number of inversion
-# the max number of inversion for a given set of number is n choose 2. E.g. for 6 numbers is 15
+# return a sorted list and count the number of inversion
+# the max number of inversion for a given set of number is n choose 2.
+# E.g. for 6 numbers is 6 choose 2=15
 
 count = 0
 
