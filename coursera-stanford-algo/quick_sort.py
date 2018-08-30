@@ -1,4 +1,3 @@
-# take first element as pivot
 count=0
 
 def find_median_pos(x):
