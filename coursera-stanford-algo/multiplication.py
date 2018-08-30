@@ -6,6 +6,7 @@ def multiply_sm(x,y):
     ly = int(len(str(y)))
     lmax = max(lx,ly)
 
+    # directly compute if both numbers are 4 digits or less
     if lmax < 4:
         return(x*y)
     elif lmax ==4 and (lx<4 or ly<4):
