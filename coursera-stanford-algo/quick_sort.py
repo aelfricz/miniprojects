@@ -52,5 +52,6 @@ with open("quicksortarray.txt") as f:
     lines = [int(line.rstrip('\n')) for line in f]
 
 #print(lines2)
+# run quick sort with type = first (default), last, median
 quick_sort(lines, type="median")
 print(count)

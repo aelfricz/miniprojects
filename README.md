@@ -2,7 +2,7 @@
 This is a collection of non-work related personal projects done in Python
 
 ## Binary tree
-use a non-class method to create a binary tree, print binary tree level-wise
+use a non-class method to create a binary tree, print binary tree level-wise. This mini project was completed in pair programming with a friend.
 
 ## Game of Life
 also known simply as Life, is a cellular automaton devised by the British mathematician John Horton Conway in 1970. It is an infinite, two-dimensional orthogonal grid of square cells, each of which is in one of two possible states, alive or dead. Every cell interacts with its eight neighbours in the following manner:
